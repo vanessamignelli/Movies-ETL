@@ -5,4 +5,4 @@ The purpose of this project was to leverage ETL techniques in order to create a 
 
 ## Resources
 - Data Sources: movies_metadata.csv, ratings.csv, wikipedia-movies.json
-- Software: Python 3.7.9, Jupyter Notebook, pgAdmin
+- Software: Python 3.7.9, Jupyter Notebook 6.1.4, pgAdmin 4
